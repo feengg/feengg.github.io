@@ -1,7 +1,7 @@
 # Site settings
-title: 懒人
-SEOTitle: 懒人工具 - 懒人不干活，懒人出的活还多
-header-img: img/post-bg-map.jpg
+title: 懒人工具
+SEOTitle: 工欲善其事，必先利其器
+header-img: img/post-bg-desk.jpg
 email: feengg@163.com
 description: "懒人工具集合，小工具，大效率"
 keyword: "懒人工具，字幕工具，视频裁剪工具，文件处理工具"
@@ -10,9 +10,9 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/feengg/feengg.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: true
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,8 +99,8 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "B站",
+        href: "https://space.bilibili.com/438134181"
     },{
         title: "星球语互动社区",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
